@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: aqua;
+}
+
+h1 {
+    padding: 0 1em;
+    color: black;
+}
+
+form {
+    padding: 0.5em 2em;
+    background-color: cadetblue;
+}
+
+.main {
+    padding: 0;
+}
+
+.entries-area {
+    padding: 0.5em 2em;
+    background-color: cadetblue;
+}
+
+.entries-area p {
+    padding: 0.5em 1em;
+    background-color: white;
+}
